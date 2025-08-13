@@ -84,13 +84,6 @@ Oii! Sou a Beatriz (Bia), tenho 19 anos e sou de São Paulo. Atualmente, sou est
 ### Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=beatrizmustafa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
