@@ -2,7 +2,7 @@
 
 **`Estagiária de desenvolvimento de sistemas`**
 
-Oii! Sou a Beatriz (Bia), tenho 19 anos e sou de São Paulo. Atualmente, sou estagiária e curso Análise e Desenvolvimento de Sistemas. Estudo intensamente Inteligência Artificial, Machine Learning, modelos de linguagem (LLMs), Data Science, com foco em Python, explorando desde análise e tratamento de dados até o desenvolvimento de sistemas inteligentes. Sou fascinada por tecnologia e motivada a criar soluções inovadoras que gerem impacto positivo na sociedade.
+Oii! Sou a Beatriz, tenho 19 anos e sou de São Paulo. Atualmente, sou estagiária e curso Análise e Desenvolvimento de Sistemas. Estudo intensamente Inteligência Artificial, Machine Learning, modelos de linguagem (LLMs), Data Science, com foco em Python, explorando desde análise e tratamento de dados até o desenvolvimento de sistemas inteligentes. Sou fascinada por tecnologia e motivada a criar soluções inovadoras que gerem impacto positivo na sociedade.
 
 
 
