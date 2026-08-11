@@ -40,6 +40,8 @@ Oii! Sou a Beatriz, tenho 20 anos e sou de São Paulo. Atualmente, sou estudante
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+
 
 <img 
     align="left" 
