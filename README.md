@@ -27,5 +27,5 @@ Oii! Sou a Beatriz, tenho 20 anos e sou de São Paulo. Atualmente, sou estudante
 ### Estatísticas
 
 <p>
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmustafa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="Estatísticas Reais" src="https://raw.githubusercontent.com/beatrizmustafa/beatrizmustafa/main/github-metrics.svg">
 </p>
