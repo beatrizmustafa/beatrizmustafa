@@ -1,23 +1,30 @@
 name: Metrics
 on:
-  # Atualiza sozinho todo dia à meia-noite
+  # Executa automaticamente a cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
-  # Permite que você rode manualmente clicando num botão
+  # Permite executar o workflow manualmente na aba Actions
   workflow_dispatch:
-  # Atualiza sempre que você alterar algo no perfil
+  # Executa sempre que houver um push na branch main ou master
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Utiliza o Personal Access Token que acabou de criar
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Nome de utilizador
           user: beatrizmustafa
           template: classic
-          base: header, activity, community, repositories
-          # Configuração que força a ler as linguagens dos SEUS commits
+          base: header, activity, community, repositories, metadata
+          
+          # Configuração do Plugin de Linguagens
           plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          plugin_languages_sections: most-used
+          # Ativa a análise profunda em todos os repositórios (commits e organizações)
+          plugin_languages_indepth: yes 
+          plugin_languages_details: bytes-size, percentage
